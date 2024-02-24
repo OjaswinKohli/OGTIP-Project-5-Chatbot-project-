@@ -1,0 +1,61 @@
+patterns,tags,context
+Hi there,greeting,
+How are you,greeting,
+Is anyone there?,greeting,
+Hey,greeting,
+Hola,greeting,
+Good day,greeting,
+Bye,goodbye,
+See you later,goodbye,
+Goodbye,goodbye,
+Nice chatting to you,goodbye,
+Till next time,goodbye,
+Thanks,thanks,
+Thank you,thanks,
+That's helpful,thanks,
+Awesome thanks ,thanks,
+Thanks for helping me,thanks,
+,noanswer,
+ ,noanswer,
+  ,noanswer,
+   ,noanswer,
+How you could help me?,options,
+What you can do?,options,
+What help you provide?,options,
+How you can be helpful?,options,
+What support is offered,options,
+How to check Adverse drug reaction?,adverse_drug,
+Open adverse drugs module,adverse_drug,
+Give me a list of drugs causing adverse behavior,adverse_drug,
+List all drugs suitable for patient with adverse reaction,adverse_drug,
+Which drugs dont have adverse reaction?,adverse_drug,
+Open blood pressure module,blood_pressure,
+Task related to blood pressure,blood_pressure,
+Blood pressure data entry,blood_pressure,
+I want to log blood pressure results,blood_pressure,
+Blood pressure data management,blood_pressure,
+I want to search for blood pressure result history,blood_pressure_search,search_blood_pressure_by_patient_id
+Blood pressure for patient,blood_pressure_search,search_blood_pressure_by_patient_id
+Load patient blood pressure result,blood_pressure_search,search_blood_pressure_by_patient_id
+Show blood pressure results for patient,blood_pressure_search,search_blood_pressure_by_patient_id
+Find blood pressure results by ID,blood_pressure_search,search_blood_pressure_by_patient_id
+,search_blood_pressure_by_patient_id,
+Find me a pharmacy,pharmacy_search,search_pharmacy_by_name
+Find pharmacy,pharmacy_search,search_pharmacy_by_name
+List of pharmacies nearby,pharmacy_search,search_pharmacy_by_name
+Locate pharmacy,pharmacy_search,search_pharmacy_by_name
+Search pharmacy,pharmacy_search,search_pharmacy_by_name
+,search_pharmacy_by_name,
+Lookup for hospital,hospital_search,search_hospital_by_params
+Searching for hospital to transfer patient,hospital_search,search_hospital_by_params
+I want to search hospital data,hospital_search,search_hospital_by_params
+Hospital lookup for patient,hospital_search,search_hospital_by_params
+Looking up hospital details,hospital_search,search_hospital_by_params
+,search_hospital_by_params,search_hospital_by_type
+,search_hospital_by_type,
+
+
+
+
+
+
